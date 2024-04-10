@@ -1,5 +1,5 @@
 # Reshma-R
-Analyst II Software Engineer DXC Technology
+Experienced software engineer with 2+ years of expertise in application operations, adept at delivering technical expertise and customer service excellence. Eager to embrace new challenges and opportunities for growth, with a strong passion for continuous learning and upskilling. Seeking a role that allows me to leverage my skills effectively in contributing to innovative projects and excel in a dynamic work environment.
 
 ## Work Experience
 ### DXC Technology - Analyst II Software Engineer, Bengaluru, Karnataka
@@ -24,3 +24,6 @@ Implemented a logistic regression machine learning model to predict sentiment an
 
 - #### [Studycademy](https://github.com/reshma-r06/Studycademy-Front-End-Project):
   Studycademy is a front-end project aimed at providing a platform for students to access educational resources and manage their study materials efficiently. It is built using HTML, CSS, and JavaScript.
+
+- ### [Spam Email Filter](https://github.com/reshma-r06/Spam-Email-Filter):
+  Developed a spam email filter using machine learning and NLP. By analyzing email content, our model distinguishes between spam and legitimate emails. It preprocesses and extracts features from email text, trains on a dataset, and evaluates its performance.
