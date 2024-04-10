@@ -25,5 +25,5 @@ Implemented a logistic regression machine learning model to predict sentiment an
 - #### [Studycademy](https://github.com/reshma-r06/Studycademy-Front-End-Project):
   Studycademy is a front-end project aimed at providing a platform for students to access educational resources and manage their study materials efficiently. It is built using HTML, CSS, and JavaScript.
 
-- ### [Spam Email Filter](https://github.com/reshma-r06/Spam-Email-Filter):
+- #### [Spam Email Filter](https://github.com/reshma-r06/Spam-Email-Filter):
   Developed a spam email filter using machine learning and NLP. By analyzing email content, our model distinguishes between spam and legitimate emails. It preprocesses and extracts features from email text, trains on a dataset, and evaluates its performance.
