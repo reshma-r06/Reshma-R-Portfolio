@@ -15,6 +15,9 @@ Experienced software engineer with 2+ years of expertise in application operatio
 Python,  HTML, CSS, SQL, JavaScript, Machine Learning, NumPy, Pandas, Excel, TensorFlow, Data Visualization, Django, Data structure and algorithm, Linux, C++ Java, Azure, Bootstrap
 
 ## Projects
+- #### [PhotoApp - Django]:
+   Developed a dynamic social media platform using Django framework to enhance user engagement and interaction. Enabled users to upload photos and interact with posts through likes and comments. Integrated user authorization features, such as password reset functionality.
+  
 - #### [Expense Tracker](https://github.com/reshma-r06/Expense-Tracker-):
   Expense Tracker web application is built using Python , Django, HTML, CSS and Javascript which allows users to create, read, update and delete expenses across different categories. Also, calculates the statistical data such as past year, month and week expenses and also represent the expenses in chart using ChartJS.
 
@@ -27,3 +30,4 @@ Implemented a logistic regression machine learning model to predict sentiment an
 
 - #### [Spam Email Filter](https://github.com/reshma-r06/Spam-Email-Filter):
   Developed a spam email filter using machine learning and NLP. By analyzing email content, our model distinguishes between spam and legitimate emails. It preprocesses and extracts features from email text, trains on a dataset, and evaluates its performance.
+
