@@ -15,7 +15,7 @@ Experienced software engineer with 2+ years of expertise in application operatio
 Python,  HTML, CSS, SQL, JavaScript, Machine Learning, NumPy, Pandas, Excel, TensorFlow, Data Visualization, Django, Data structure and algorithm, Linux, C++ Java, Azure, Bootstrap
 
 ## Projects
-- #### [PhotoApp - Django]:
+- #### [PhotoApp - Django](https://github.com/reshma-r06/Photo-App---Django):
    Developed a dynamic social media platform using Django framework to enhance user engagement and interaction. Enabled users to upload photos and interact with posts through likes and comments. Integrated user authorization features, such as password reset functionality.
   
 - #### [Expense Tracker](https://github.com/reshma-r06/Expense-Tracker-):
