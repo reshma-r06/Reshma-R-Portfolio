@@ -3,7 +3,7 @@ Experienced software engineer with 2+ years of expertise in application operatio
 
 ## Work Experience
 ### DXC Technology - Analyst II Software Engineer, Bengaluru, Karnataka
- - Provided crucial technical support and troubleshooting assistance to end-users, ensuring smooth operation and functionality of mission-critical applications.
+ - Provided crucial technical and troubleshooting assistance to end-users, ensuring smooth operation and functionality of mission-critical applications.
  - Acted as a primary point of contact for resolving user-reported issues, employing a proactive approach to identify root causes and implement effective solutions promptly.
  - Collaborated closely with cross-functional teams, including developers, quality assurance, and system administrators, to escalate and resolve complex technical issues, ensuring minimal disruption to business operations.
  - Created and maintained comprehensive documentation, including knowledge base articles to facilitate efficient problem resolution and knowledge sharing within the team.
@@ -30,4 +30,9 @@ Implemented a logistic regression machine learning model to predict sentiment an
 
 - #### [Spam Email Filter](https://github.com/reshma-r06/Spam-Email-Filter):
   Developed a spam email filter using machine learning and NLP. By analyzing email content, our model distinguishes between spam and legitimate emails. It preprocesses and extracts features from email text, trains on a dataset, and evaluates its performance.
+
+## Certifications and Coursework
+- ##### IBM Data Science Professional Certificate
+- ##### Microsoft Azure Fundamentals AZ-900
+- ##### Microsoft Azure AI Fundamentals AI-900
 
