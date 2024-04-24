@@ -1,8 +1,9 @@
 # Reshma-R
+#### Software Engineer
 Experienced software engineer with 2+ years of expertise in application operations, adept at delivering technical expertise and customer service excellence. Eager to embrace new challenges and opportunities for growth, with a strong passion for continuous learning and upskilling. Seeking a role that allows me to leverage my skills effectively in contributing to innovative projects and excel in a dynamic work environment.
 
 ## Work Experience
-### DXC Technology - Analyst II Software Engineer, Bengaluru, Karnataka
+### DXC Technology - Analyst I Software Engineer, Bengaluru, Karnataka
  - Provided crucial technical and troubleshooting assistance to end-users, ensuring smooth operation and functionality of mission-critical applications.
  - Acted as a primary point of contact for resolving user-reported issues, employing a proactive approach to identify root causes and implement effective solutions promptly.
  - Collaborated closely with cross-functional teams, including developers, quality assurance, and system administrators, to escalate and resolve complex technical issues, ensuring minimal disruption to business operations.
