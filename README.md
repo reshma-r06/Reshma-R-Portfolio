@@ -1,16 +1,19 @@
 # Reshma-R
 #### Software Engineer
-Experienced software engineer with 2+ years of expertise in application operations, adept at delivering technical expertise and customer service excellence. Eager to embrace new challenges and opportunities for growth, with a strong passion for continuous learning and upskilling. Seeking a role that allows me to leverage my skills effectively in contributing to innovative projects and excel in a dynamic work environment.
+Experienced software engineer with 3+ years of expertise in application operations, adept at delivering technical expertise and customer service excellence. Eager to embrace new challenges and opportunities for growth, with a strong passion for continuous learning and upskilling. Seeking a role that allows me to leverage my skills effectively in contributing to innovative projects and excel in a dynamic work environment.
 
 ## Work Experience
 ### DXC Technology - Analyst I Software Engineer, Bengaluru, Karnataka
- - Provided crucial technical and troubleshooting assistance to end-users, ensuring smooth operation and functionality of mission-critical applications.
- - Acted as a primary point of contact for resolving user-reported issues, employing a proactive approach to identify root causes and implement effective solutions promptly.
- - Collaborated closely with cross-functional teams, including developers, quality assurance, and system administrators, to escalate and resolve complex technical issues, ensuring minimal disruption to business operations.
- - Created and maintained comprehensive documentation, including knowledge base articles to facilitate efficient problem resolution and knowledge sharing within the team.
- - Implemented proactive monitoring and alerting systems to detect and address potential issues before they impacted end-users, contributing to improved system reliability and performance and handled more than 900 incidents.
- - Conducted regular review meetings with stakeholders to discuss service level agreements (SLAs), performance metrics, and areas for continuous improvement, driving enhancements to support processes and procedures.
- - Contributed to the onboarding and training of new team members sharing insights about the project team and the work.
+ - Conducted proactive monitoring to detect and address potential issues before they impacted end-users,
+resulting in a 37% improvement in system reliability and performance.
+ - Designed and developed Python scripts to automate daily tasks, streamlining server access and
+management processes and resulting in a 60% reduction in man-hours
+ - Utilized monitoring tools and root-cause analysis methodologies to diagnose and implement effective
+solutions and reducing the incident rate by 40%
+ - Collaborated with customer support to tackle 1000+ reported application issues in production and testing
+environment
+ - Created detailed documentation for internal tools and processes to enhance knowledge sharing and
+optimize onboarding processes
 
 ## Skills
 Python,  HTML, CSS, SQL, JavaScript, Machine Learning, NumPy, Pandas, Excel, TensorFlow, Data Visualization, Django, Data structure and algorithm, Linux, C++ Java, Azure, Bootstrap
